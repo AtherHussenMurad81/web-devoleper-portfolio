@@ -1,0 +1,37 @@
+h3 {
+    font-size: 20px;
+    text-decoration: overline;
+}
+
+.header {
+
+    height: 300px;
+    background-color: aquamarine;
+    background-image: url('WhatsApp\ Image\ 2025-02-04\ at\ 15.45.14_633c4b51.jpg');
+    background-repeat: none;
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-image: cover;
+    background-image: url(../styles/WhatsApp\ Image\ 2025-02-04\ at\ 15.45.14_633c4b51.jpg);
+    border-radius: 2px
+}
+
+.g {
+    /* display: none; */
+}
+
+.blg {
+    visibility: ;
+}
+
+.murad {
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nahin {
+    border: 1px solid purple;
+    display: block;
+}

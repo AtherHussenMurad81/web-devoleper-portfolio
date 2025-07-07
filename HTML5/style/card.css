@@ -1,0 +1,42 @@
+.card {
+    width: 300px;
+    border: 2px solid green;
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgb(99, 62, 62);
+}
+
+.card-container {
+    display: flex;
+    gap: 50px;
+    
+}
+
+.card h3 {
+    font-size: 1.25em;
+    font-weight: 700px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card button {
+    width: 300px;
+    border: 2px solid green;
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgb(99, 62, 62);
+    cursor: pointer;
+}
+
+body {
+    max-width: 1170px;
+    background-color: bisque;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+}
+
+.card:hover {
+    background-color: rgba(124, 27, 27, 0.199);
+}
